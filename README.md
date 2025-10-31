@@ -8,6 +8,9 @@
 # MaaPracticeBoilerplate
 
 <h1>目前正在制作，二重螺旋</h1>
+不是哥们，不支持模拟器？
+<img width="1284" height="782" alt="image" src="https://github.com/user-attachments/assets/0073112f-08b6-44da-9e76-e7a48ad631ff" />
+
 </div>
 
 本仓库为 [MaaFramework](https://github.com/MaaXYZ/MaaFramework) 所提供的项目模板，开发者可基于此模板直接创建自己的 MaaXXX 项目。

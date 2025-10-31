@@ -8,8 +8,8 @@
 # MaaPracticeBoilerplate
 
 <h1>目前正在制作，二重螺旋</h1>
-不是哥们，不支持模拟器？
-<img width="1284" height="782" alt="image" src="https://github.com/user-attachments/assets/0073112f-08b6-44da-9e76-e7a48ad631ff" />
+
+不知道能不能做出来，还在参考开发文档中
 
 </div>
 
